@@ -1,0 +1,11 @@
+# Site settings
+title: Charles Hadfield
+email: charles.hadfield@ens.fr
+description: > 
+  mathematics PhD student at École normale supérieure in Paris
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima

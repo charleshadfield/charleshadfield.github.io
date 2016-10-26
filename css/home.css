@@ -1,0 +1,24 @@
+.lhs {
+	float: left;
+	width: 60%;
+	}
+
+.mhs {
+	float: left;
+	width: 5%;
+	}
+	
+.rhs {
+	float: right;
+	width: 35%;
+	}
+
+.mail	a	{
+	text-decoration: none;
+	}
+.mail	a:visited	{
+	color: black;
+	}
+.mail	a:hover	{
+	color: blue;
+	}
